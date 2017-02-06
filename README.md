@@ -1,6 +1,6 @@
 # Predicting Fraud Suspects at Enron
 
-(Full analysis in .ipynb document.)
+(Full analysis in .ipynb document. Open with nbviewer for HTML rendering.)
 
 ### The Purpose: Predicting POI
 
